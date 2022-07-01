@@ -1,4 +1,8 @@
-# NVIDIA_FLARE
+# NVIDIA_FLARE Short Q&A: 
+
+
+Here you can find a short Q&A, in particular, those questions I had when tesing this framework, and could not see a clear answer in the official documentation.
+Please, let me know if there are some more I should add. :)
 
 1. Is it possible to run 2 experiments at the same time? 
 
